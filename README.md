@@ -1,6 +1,6 @@
 # Petit outil de confidentialité (POC)
 
-Ce programme est un outil de chiffrement simple d'utilisation. 
+Ce programme est un outil de chiffrement simple d'utilisation développé en Java. 
 
 Le chiffrement d'un document se déroule en deux parties :
 
