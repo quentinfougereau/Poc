@@ -1,0 +1,7 @@
+Le programme POC à été développé avec Java 11, il est donc nécessaire de le compiler avec Java 11.
+
+Comilation :
+javac POC.java
+
+Execution :
+java POC <chemin-vers-le-fichier>
